@@ -1,6 +1,6 @@
 # dūd-logos
 
-<img src="https://github.com/freywald/dūd-logos/blob/master/dyd-logo.svg" width="256"><sub>CC BY-SA 4.0</sub>
+<img src="https://github.com/freywald/dyd-logos/blob/master/dyd-logo.svg" width="256"><sub>CC BY-SA 4.0</sub>
 
 Logos for dūds.
 
