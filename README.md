@@ -1,4 +1,4 @@
-# dūd-logos
+# dyd-logos
 
 <img src="https://github.com/freywald/dyd-logos/blob/master/dyd-logo.svg" width="256"><sub>CC BY-SA 4.0</sub>
 
@@ -12,5 +12,4 @@ Also:
 
 [^1]: "Dud" Vocabulary.com Dictionary, Vocabulary.com, https://vocabulary.com/dictionary/dud. Accessed 07 Aug. 2025.
 
-Derived from PHP logo by Colin Viebrock.
-
+Derived from the official PHP logo by Colin Viebrock.
