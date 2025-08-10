@@ -33,23 +33,11 @@ Explanation incoming…
 
 *<ins>Mathematically</ins>, it's also beautiful:*
 
-$\begin{aligned}
-\begin{align*}
-dud + ꣐ &= dyd - dūd + dud \qquad\qquad\mathbf{\text{no dūd was here}}\\
-dud + ⏽ &= dyd = dūd \qquad\qquad\qquad\mathbf{\text{here's one dūd}}\\
-dud + ॥ &= dyd + dūd \qquad\qquad\qquad\mathbf{\text{we're two beautiful dūds}}\\
-\end{align*}
-\end{aligned}$
+$`dud + ꣐ = dyd - dūd + dud`$
 
-or
+$`dud + ⏽ = dyd = dūd`$
 
-$\begin{aligned}
-\begin{align*}
-dud + ꣐ &= dyd - dūd + dud \\
-dud + ⏽ &= dyd = dūd \\
-dud + ॥ &= dyd + dūd \\
-\end{align*}
-\end{aligned}$
+$`dud + ॥ = dyd + dūd`$
 
 *See… you can count on duds! In fact, you can count on all of them! QED*
 
