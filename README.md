@@ -16,7 +16,7 @@ Previously derived from the official PHP logo by Colin Viebrock.
 *You look like a dūd. Hey, dūd!*
 <br/>
 
-*—— Yeah, right! – so what's a dūd? Let's look it up … in a <ins>dictionary</ins>!*
+*—— Yeah, right, you do! – so what's a dūd? Let's look it up … in a <ins>dictionary</ins>!*
 > – Something that doesn't work the way it's supposed to is a <ins>dūd</ins>.
 >
 > – Also, a <ins>dūd</ins> is a person with a record of failing; someone who loses consistently.[^1]
