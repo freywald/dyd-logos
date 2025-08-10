@@ -1,10 +1,10 @@
 # dyd-logos
 
+Logos for dūds. 
+
 Here is the collection of all official dyd logos, small and large, but all great!
 
 Previously derived from the official PHP logo by Colin Viebrock. Explanation incoming.
-
-These logos are for dūds.
 
 <br/><br/>
 
@@ -22,11 +22,11 @@ ___
 >
 > – Also, a dūd is a person with a record of failing; someone who loses consistently.[^1]
 > 
-> – Humanity.
- 
+> – Rarely, all of humanity [widely disregarded].
+
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
-*Dūds? That's us, right??? Yeah, that's a dūd here too.*
+*Dūds? That's us, right??? Yeah, no frack, that's a real dūd here too.*
 
 ___
 
@@ -43,10 +43,10 @@ ___
 ___
 
 *And most importantly, last but not least – <ins>etymologically</ins>:*
-> dyd is an acronym that stands for: tools from **d**ūds for **d**ūds.
+> dyd is an acronym that stands for: tools from **dū**ds for **d**ūds, that's right.
 
 <br/>
 
-*I have now explained to you in detail and conclusively why dūds are all great. *
+*I have now explained to you in detail and conclusively why dūds are all great.*
 
 *Thank you for your attention to this matter!*
