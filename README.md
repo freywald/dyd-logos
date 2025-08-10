@@ -65,8 +65,8 @@ $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 
 *I have now explained to you in detail and conclusively why dūds are all great.*
 
-*Thank you for your attention to this matter!*
-
 ___
 
 This is the final section and it's beautiful this way as well.
+
+Thank you for your attention to this matter!
