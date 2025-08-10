@@ -23,7 +23,7 @@ Previously derived from the official PHP logo by Colin Viebrock.
 > 
 > – Rarely, all of humanity are dūds *– Widely disregarded by most, but confirmed by angry dudes all the time*.
 >
-> – Random DIY tools. *– Explanation incoming…*
+> – Random DIY tools. *– Extensive explanation incoming…*
 > 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
@@ -52,12 +52,13 @@ $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 
 *See… you can count on duds! In fact, you can count on all of them!*
 
-<br/>∎ END OF PROOF
 
-<br/>
+∎ END OF PROOF
+
+<br/><br/>
 
 *And most importantly, last but not least – <ins>etymologically</ins>:*
-> dyd is an acronym that stands for: *tools from **dū**ds for **d**ūds* … that's right.
+> dyd is an acronym that stands for: *random DIY tools from **dū**ds for **d**ūds* … that's right.
 
 <br/>
 <br/>
