@@ -21,9 +21,9 @@ Previously derived from the official PHP logo by Colin Viebrock.
 >
 > – Also, a <ins>dūd</ins> is a person with a record of failing; someone who loses consistently.[^1]
 > 
-> – Rarely, all of humanity are dūds *– widely disregarded by most, but confirmed by angry dudes all the time*.
+> – Rarely, all of humanity are dūds *– Widely disregarded by most, but confirmed by angry dudes all the time*.
 >
-> – random DIY tools. Explanation incoming…
+> – Random DIY tools. *– Explanation incoming…*
 > 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
