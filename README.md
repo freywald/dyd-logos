@@ -35,14 +35,17 @@ Explanation incoming…
 
 
 $`1.\quad dud + ꣐ = dyd - dūd + dud \qquad`$ [base]
+
 «A dud is nothing until you count on him.»
 <br/><br/>
 
 $`2.\quad dud + ⏽ = dyd = dūd \qquad`$ [existence]
+
 «Where's one, there's another?»
 <br/><br/>
 
 $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
+
 «Positive! create anything out of nothing.»
 <br/><br/>
 
