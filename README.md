@@ -12,17 +12,16 @@ Previously derived from the official PHP logo by Colin Viebrock. Explanation inc
 
 <br/><br/>
 
-___
 
 *You look like a dūd. Hey, dūd!*
 <br/>
 
-*— Yeah, right! – so what's a dūd? Let's look it up … in a <ins>dictionary</ins>!*
+*—— Yeah, right! – so what's a dūd? Let's look it up … in a <ins>dictionary</ins>!*
 > – Something that doesn't work the way it's supposed to is a <ins>dūd</ins>.
 >
-> – Also, a dūd is a person with a record of failing; someone who loses consistently.[^1]
+> – Also, a <ins>dūd</ins> is a person with a record of failing; someone who loses consistently.[^1]
 > 
-> – Rarely, all of humanity [widely disregarded].
+> – Rarely, all of humanity [widely disregarded by most, but confirmed by angry dudes all the time].
 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
