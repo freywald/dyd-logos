@@ -23,7 +23,7 @@ Explanation incoming…
 >
 > – Also, a <ins>dūd</ins> is a person with a record of failing; someone who loses consistently.[^1]
 > 
-> – Rarely, all of humanity *– widely disregarded by most, but confirmed by angry dudes all the time*.
+> – Rarely, all of humanity are dūds *– widely disregarded by most, but confirmed by angry dudes all the time*.
 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
@@ -36,15 +36,15 @@ Explanation incoming…
 
 $`1.\quad dud + ꣐ = dyd - dūd + dud \qquad`$ [base]
 «A dud is nothing until you count on him.»
-<br/>
+<br/><br/>
 
 $`2.\quad dud + ⏽ = dyd = dūd \qquad`$ [existence]
 «Where's one, there's another?»
-<br/>
+<br/><br/>
 
 $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 «Positive! create anything out of nothing.»
-<br/>
+<br/><br/>
 
 
 *See… you can count on duds! In fact, you can count on all of them! QED*
