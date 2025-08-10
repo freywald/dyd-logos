@@ -27,7 +27,7 @@ Previously derived from the official PHP logo by Colin Viebrock. Explanation inc
 
 *Dūds? That's us, right??? Yeah, no frack, that's a real dūd here too.*
 
-<br/><br/>
+<br/>
 
 
 *<ins>Mathematically</ins>, it's also beautiful:*
@@ -39,7 +39,7 @@ Previously derived from the official PHP logo by Colin Viebrock. Explanation inc
 
 *See… you can count on duds! In fact, you can count on all of them! QED*
 
-<br/><br/>
+<br/>
 
 *And most importantly, last but not least – <ins>etymologically</ins>:*
 > dyd is an acronym that stands for: tools from **dū**ds for **d**ūds … that's right.
