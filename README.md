@@ -42,7 +42,7 @@ ___
 ___
 
 *And most importantly, last but not least – <ins>etymologically</ins>:*
-> dyd is an acronym that stands for: tools from **dū**ds for **d**ūds, that's right.
+> dyd is an acronym that stands for: tools from **dū**ds for **d**ūds … that's right.
 
 <br/>
 
