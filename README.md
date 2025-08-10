@@ -31,17 +31,17 @@ Explanation incoming…
 
 <br/>
 
-*<ins>Mathematically</ins>, it's also beautiful:*
+*<ins>Mathematically</ins>, it's also beautiful. Dūds are defined by:*
 
-$`dud + ꣐ = dyd - dūd + dud \qquad`$ —— base.
+1. $`dud + ꣐ = dyd - dūd + dud \qquad`$ [base]
 
 «A dud is nothing until you count on him.»
-
-$`dud + ⏽ = dyd = dūd \qquad`$ —— existence. 
+<br/>
+2. $`dud + ⏽ = dyd = dūd \qquad`$ [existence]
 
 «Where's one, there's another?»
-
-$`dud + ॥ = dyd + dūd \qquad `$ —— new creation. 
+<br/>
+3. $`dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 
 «Positive! create anything out of nothing.»
 
