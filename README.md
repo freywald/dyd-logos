@@ -27,17 +27,23 @@ Explanation incoming…
 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
-*Dūds? That's us, right??? Yeah, no frack, that's a real dūd here too – this means you, yes, it's you too!*
+*Dūds? That's us, right??? Yeah, no frack, that's a real dūd here too – this means you, yes; it's you too!*
 
 <br/>
 
 *<ins>Mathematically</ins>, it's also beautiful:*
 
-$`dud + ꣐ = dyd - dūd + dud \qquad`$ —— base, «a dud is nothing until you count on him.»
+$`dud + ꣐ = dyd - dūd + dud \qquad`$ —— base.
 
-$`dud + ⏽ = dyd = dūd \qquad`$ —— existence, «where's one, there's another?»
+«A dud is nothing until you count on him.»
 
-$`dud + ॥ = dyd + dūd \qquad `$ —— new creation, «positive! create anything out of nothing.»
+$`dud + ⏽ = dyd = dūd \qquad`$ —— existence. 
+
+«Where's one, there's another?»
+
+$`dud + ॥ = dyd + dūd \qquad `$ —— new creation. 
+
+«Positive! create anything out of nothing.»
 
 *See… you can count on duds! In fact, you can count on all of them! QED*
 
