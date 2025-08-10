@@ -60,11 +60,12 @@ $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 > dyd is an acronym that stands for: *tools from **dū**ds for **d**ūds* … that's right.
 
 <br/>
-
-___
-
 <br/>
 
 *I have now explained to you in detail and conclusively why dūds are all great.*
 
 *Thank you for your attention to this matter!*
+
+___
+
+This is the final section and it's beautiful this way as well.
