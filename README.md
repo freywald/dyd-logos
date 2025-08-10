@@ -41,18 +41,19 @@ $`1.\quad dud + ꣐ = dyd - dūd + dud \qquad`$ [base]
 
 $`2.\quad dud + ⏽ = dyd = dūd \qquad`$ [existence]
 
-«Keep the hold on him. Now, where's one, there's another?»
+«Keep the hold on him.<br/>Now, where's one, there's another?»
 <br/><br/>
 
 $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 
-«Positive, there's another – and many more — Create anything out of nothing.»
+«Positive, there's another – and many more!<br/>Create anything out of nothing.»
 <br/><br/>
 
 
-*See… you can count on duds! In fact, you can count on all of them! QED*
+*See… you can count on duds! In fact, you can count on all of them!*
+<br/>∎ END OF PROOF
 
-<br/>
+<br/><br/>
 
 *And most importantly, last but not least – <ins>etymologically</ins>:*
 > dyd is an acronym that stands for: *tools from **dū**ds for **d**ūds* … that's right.
