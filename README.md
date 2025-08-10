@@ -6,8 +6,6 @@ Here is the collection of all official dyd logos, small and large, but all great
 
 Previously derived from the official PHP logo by Colin Viebrock. 
 
-Explanation incoming…
-
 <br/><br/>
 
 <img src="dyd-logo.svg"><sub>CC BY-SA 4.0</sub>
@@ -24,7 +22,9 @@ Explanation incoming…
 > – Also, a <ins>dūd</ins> is a person with a record of failing; someone who loses consistently.[^1]
 > 
 > – Rarely, all of humanity are dūds *– widely disregarded by most, but confirmed by angry dudes all the time*.
-
+>
+> – random DIY tools. Explanation incoming…
+> 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
 *Dūds? That's us, right??? Yeah, no frack, that's a real dūd here too – this means you, yes; it's you too!*
@@ -51,9 +51,10 @@ $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 
 
 *See… you can count on duds! In fact, you can count on all of them!*
+
 <br/>∎ END OF PROOF
 
-<br/><br/>
+<br/>
 
 *And most importantly, last but not least – <ins>etymologically</ins>:*
 > dyd is an acronym that stands for: *tools from **dū**ds for **d**ūds* … that's right.
