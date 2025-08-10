@@ -34,15 +34,15 @@ Explanation incoming…
 *<ins>Mathematically</ins>, it's also beautiful. Dūds are defined by:*
 
 
-1. $`dud + ꣐ = dyd - dūd + dud \qquad`$ [base]
+$`1.\quad dud + ꣐ = dyd - dūd + dud \qquad`$ [base]
 «A dud is nothing until you count on him.»
 <br/>
 
-2. $`dud + ⏽ = dyd = dūd \qquad`$ [existence]
+$`2.\quad dud + ⏽ = dyd = dūd \qquad`$ [existence]
 «Where's one, there's another?»
 <br/>
 
-3. $`dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
+$`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 «Positive! create anything out of nothing.»
 <br/>
 
