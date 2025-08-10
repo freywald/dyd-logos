@@ -46,7 +46,7 @@ $`2.\quad dud + ⏽ = dyd = dūd \qquad`$ [existence]
 
 $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 
-«Positive! create anything out of nothing.»
+«Positive, there's another – and many more! create anything out of nothing.»
 <br/><br/>
 
 
