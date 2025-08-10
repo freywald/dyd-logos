@@ -4,7 +4,9 @@ Logos for dūds.
 
 Here is the collection of all official dyd logos, small and large, but all great!
 
-Previously derived from the official PHP logo by Colin Viebrock. Explanation incoming.
+Previously derived from the official PHP logo by Colin Viebrock. 
+
+Explanation incoming…
 
 <br/><br/>
 
@@ -25,17 +27,29 @@ Previously derived from the official PHP logo by Colin Viebrock. Explanation inc
 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
-*Dūds? That's us, right??? Yeah, no frack, that's a real dūd here too.*
+*Dūds? That's us, right??? Yeah, no frack, that's a real dūd here too – this means you, yes, it's you too!*
 
 <br/>
 
-
 *<ins>Mathematically</ins>, it's also beautiful:*
-> $`dud + ꣐ = dyd - dūd + dud`$
->
-> $`dud + ⏽ = dyd = dūd`$
->
-> $`dud + ॥ = dyd + dūd`$
+
+$\begin{aligned}
+\begin{align*}
+dud + ꣐ &= dyd - dūd + dud \qquad\qquad\mathbf{\text{no dūd was here}}\\
+dud + ⏽ &= dyd = dūd \qquad\qquad\qquad\mathbf{\text{here's one dūd}}\\
+dud + ॥ &= dyd + dūd \qquad\qquad\qquad\mathbf{\text{we're two beautiful dūds}}\\
+\end{align*}
+\end{aligned}$
+
+or
+
+$\begin{aligned}
+\begin{align*}
+dud + ꣐ &= dyd - dūd + dud \\
+dud + ⏽ &= dyd = dūd \\
+dud + ॥ &= dyd + dūd \\
+\end{align*}
+\end{aligned}$
 
 *See… you can count on duds! In fact, you can count on all of them! QED*
 
