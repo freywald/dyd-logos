@@ -33,11 +33,11 @@ Explanation incoming…
 
 *<ins>Mathematically</ins>, it's also beautiful:*
 
-$`dud + ꣐ = dyd - dūd + dud`$
+$`dud + ꣐ = dyd - dūd + dud \qquad`$ —— base, «a dud is nothing until you count on him.»
 
-$`dud + ⏽ = dyd = dūd`$
+$`dud + ⏽ = dyd = dūd \qquad`$ —— existence, «where's one, there's another?»
 
-$`dud + ॥ = dyd + dūd`$
+$`dud + ॥ = dyd + dūd \qquad `$ —— new creation, «positive! create anything out of nothing.»
 
 *See… you can count on duds! In fact, you can count on all of them! QED*
 
