@@ -41,12 +41,12 @@ $`1.\quad dud + ꣐ = dyd - dūd + dud \qquad`$ [base]
 
 $`2.\quad dud + ⏽ = dyd = dūd \qquad`$ [existence]
 
-«Where's one, there's another?»
+«Keep the hold on him. Now, where's one, there's another?»
 <br/><br/>
 
 $`3.\quad dud + ॥ = dyd + dūd \qquad `$ [negative induction, new creation]
 
-«Positive, there's another – and many more! create anything out of nothing.»
+«Positive, there's another – and many more — Create anything out of nothing.»
 <br/><br/>
 
 
