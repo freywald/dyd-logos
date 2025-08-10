@@ -21,7 +21,7 @@ Previously derived from the official PHP logo by Colin Viebrock. Explanation inc
 >
 > – Also, a <ins>dūd</ins> is a person with a record of failing; someone who loses consistently.[^1]
 > 
-> – Rarely, all of humanity [widely disregarded by most, but confirmed by angry dudes all the time].
+> – Rarely, all of humanity *– widely disregarded by most, but confirmed by angry dudes all the time*.
 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
@@ -42,7 +42,7 @@ Previously derived from the official PHP logo by Colin Viebrock. Explanation inc
 <br/>
 
 *And most importantly, last but not least – <ins>etymologically</ins>:*
-> dyd is an acronym that stands for: tools from **dū**ds for **d**ūds … that's right.
+> dyd is an acronym that stands for: *tools from **dū**ds for **d**ūds* … that's right.
 
 <br/>
 
