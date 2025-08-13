@@ -23,7 +23,7 @@ Previously derived from the official PHP logo by Colin Viebrock.
 > 
 > – Rarely, all of humanity are dūds *– Widely disregarded by most, but confirmed by angry dudes all the time*.
 >
-> – Random DIY tools. *– Extensive explanation incoming…*
+> – Random DIY tools *– Extensive explanation incoming…*
 > 
 [^1]: link: https://vocabulary.com/dictionary/dud. Accessed 07.08.2025.
 
